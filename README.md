@@ -6,14 +6,14 @@ O objetivo principal do curso é desenvolver o raciocínio aplicado à formulaç
 Plataforma: Coursera
 
 #### Estrutura do curso:
-* Semana 1 - Apresentação e Introdução do Curso
-* Semana 2 - Introdução ao Python
-* Semana 3 - Condicionais: if...else
-* Semana 4 - Repetição: while
-* Semana 5 - Funções
-* Semana 6 - Depuração e Refatoração
-* Semana 7 - Repetições Encaixadas
-* Semana 8 - Listas
+* Semana 1 - Apresentação e Introdução do Curso ✅
+* Semana 2 - Introdução ao Python ✅
+* Semana 3 - Condicionais: if...else ✅
+* Semana 4 - Repetição: while ✅
+* Semana 5 - Funções ✅
+* Semana 6 - Depuração e Refatoração ✅
+* Semana 7 - Repetições Encaixadas ✅
+* Semana 8 - Listas ✅
 * Semana 9 - Mais sobre listas
 * Semana 10 - Matrizes
 * Semana 11 - Strings, 4 Pequenos Conceitos e Modularização
