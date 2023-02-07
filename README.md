@@ -14,8 +14,8 @@ Plataforma: Coursera
 * Semana 6 - Depuração e Refatoração ✅
 * Semana 7 - Repetições Encaixadas ✅
 * Semana 8 - Listas ✅
-* Semana 9 - Mais sobre listas
-* Semana 10 - Matrizes
+* Semana 9 - Mais sobre listas ✅
+* Semana 10 - Matrizes ✅
 * Semana 11 - Strings, 4 Pequenos Conceitos e Modularização
 * Semana 12 - POO – Programação Orientada a Objetos
 * Semana 13 - Algoritmos de Busca e Ordenação. Complexidade Computacional
