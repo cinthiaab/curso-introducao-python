@@ -16,9 +16,9 @@ Plataforma: Coursera
 * Semana 8 - Listas ✅
 * Semana 9 - Mais sobre listas ✅
 * Semana 10 - Matrizes ✅
-* Semana 11 - Strings, 4 Pequenos Conceitos e Modularização
-* Semana 12 - POO – Programação Orientada a Objetos
-* Semana 13 - Algoritmos de Busca e Ordenação. Complexidade Computacional
-* Semana 14 - Algoritmos de Busca e Ordenação. Análise de Desempenho
+* Semana 11 - Strings, 4 Pequenos Conceitos e Modularização ✅
+* Semana 12 - POO – Programação Orientada a Objetos ✅
+* Semana 13 - Algoritmos de Busca e Ordenação. Complexidade Computacional ✅
+* Semana 14 - Algoritmos de Busca e Ordenação. Análise de Desempenho ✅
 * Semana 15 - Recursão
 * Semana 16 - Módulo Extra - Usos Avançados
