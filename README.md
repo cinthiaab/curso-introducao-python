@@ -20,5 +20,11 @@ Plataforma: Coursera
 * Semana 12 - POO – Programação Orientada a Objetos ✅
 * Semana 13 - Algoritmos de Busca e Ordenação. Complexidade Computacional ✅
 * Semana 14 - Algoritmos de Busca e Ordenação. Análise de Desempenho ✅
-* Semana 15 - Recursão
-* Semana 16 - Módulo Extra - Usos Avançados
+* Semana 15 - Recursão ✅
+* Semana 16 - Módulo Extra - Usos Avançados ✅
+
+### Certificados:
+
+<img src="./certificados/certificado1-python-usp.jpg" wight="660px" height="510px"></img>
+
+<img src="./certificados/certificado2-python-usp.jpg" wight="660px" height="510px"></img>
